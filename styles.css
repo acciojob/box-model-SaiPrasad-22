@@ -18,16 +18,15 @@
 	height:50px;
 	border:none;
 	border-radius:50%;
-	background-color:black;
 	margin:10px;
 }
 
-#green{
+.green{
 	background-color:green;
 }
-#yellow{
+.yellow{
 	background-color:yellow;
 }
-#red{
+.red{
 	background-color:red;
 }
